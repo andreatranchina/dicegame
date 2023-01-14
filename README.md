@@ -1,3 +1,3 @@
 # dicegame
-Two player dice rolling game, refresh page to roll again
+Two player dice rolling game
 (higher number wins)
